@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bb92c9820acc31f46ad054b6c7bbdc2f
+timeCreated: 1506825459
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Milasian Circa Bold PERSONAL
+  fontNames:
+  - Milasian Circa Bold PERSONAL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

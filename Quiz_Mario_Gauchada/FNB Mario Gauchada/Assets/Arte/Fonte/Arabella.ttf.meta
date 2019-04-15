@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8c8fbaaf051ee2345b6ba89e8a0c5d0e
+timeCreated: 1538628313
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arabella
+  fontNames:
+  - Arabella
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

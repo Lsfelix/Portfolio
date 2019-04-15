@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 10c1012a8c81c664daa4021e40febdc6
+timeCreated: 1506825841
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VintageOne
+  fontNames:
+  - VintageOne
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
