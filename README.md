@@ -1,5 +1,5 @@
 # Portfolio
-Um acervo de jogos feitos por minha pessoa por diversão e motivos acadêmicos.
+Um acervo de jogos feitos por diversão e motivos acadêmicos.
 
 -Escape Game
   Dois programas feitos para acompanhar Escape Games (Jogos onde se deve escapar de uma sala resolvendo desafios).
