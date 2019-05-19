@@ -1,0 +1,3 @@
+Contexto Escape Game 2016
+
+-Um programa que roda um vídeo de introdução e então começa uma contagem regressiva do tempo de sala.

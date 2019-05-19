@@ -1,0 +1,11 @@
+Contexto Escape Game
+
+-Esse jogo foi colocado dentro de uma sala de Escape Game criada em um projeto escolar em 2018.
+-Além de ajudar na criação da dinâmica da sala, desenvolvi esse jogo.
+-Os jogadores encontravam pistas na sala, que os levavam aos códigos que deveriam digitar no programa.
+
+O primeiro código é: 8642357019
+
+A ordem certa de inputs seguintes é: SAFETY123, SUPPLIE5, UNLOCK13, GPS445, DEAD65
+
+A última tela é a solução para o final da sala, e é usada apenas de referência.

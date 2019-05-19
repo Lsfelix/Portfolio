@@ -1,0 +1,73 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+Platform assembly: C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lucass\Documents\GitPortfolio\Portfolio\Escape_Game\2018\Escape_Game_2018_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.591588 ms
+You selected8642357019
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Certo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.723448 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.436635 ms (FindLiveObjects: 0.031646 ms CreateObjectMapping: 0.046614 ms MarkObjects: 0.346400 ms  DeleteObjects: 0.006842 ms)
+
+You selected SAFETY123
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1 certo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You selected SUPPLIE5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You selected UNLOCK13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You selected GPS445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You selected DEAD65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.670562 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 0.717604 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.026086 ms MarkObjects: 0.282252 ms  DeleteObjects: 0.380612 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 11ac -> priority: 1 
+  Thread -> id: 12dc -> priority: 1 
