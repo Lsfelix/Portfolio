@@ -1,0 +1,6 @@
+Contexto Quiz Gauchada
+
+-Jogo feito com ajuda de um tutorial no Youtube.
+
+-Jogo feito para o 10º Findinexa Brasil, maior fórum de empreendedorismo jovem do Brasil.
+-Uma das atividades do fórum era montar um estande apresentando seu estado. Este jogo estava disponível para ser jogado no estande.
