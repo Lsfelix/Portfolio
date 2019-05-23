@@ -1,0 +1,6 @@
+Contexto Tempo de Reação
+
+-Jogo feito para a feira de ciências do colégio.
+-Após iniciar, um carro irá em um tempo aleatório aparecer no outro lado da tela, deve-se apertar espaço
+para impedir o impacto.
+-Após impedir (ou não) esperar 10 segundos para resetar o jogo.

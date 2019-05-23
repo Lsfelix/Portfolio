@@ -4,4 +4,7 @@ Contexto Quiz Gauchada
 -Versão Unity 5.6.3p2
 
 -Jogo feito para o 10º Findinexa Brasil, maior fórum de empreendedorismo jovem do Brasil.
--Uma das atividades do fórum era montar um estande apresentando seu estado. Este jogo estava disponível para ser jogado no estande.
+-Uma das atividades do fórum era montar um estande apresentando seu estado. 
+-Este jogo estava disponível para ser jogado no estande.
+-Ainda havia uma atividade onde o jogador procurava personalidades gaúchas ao redor do estande
+ e, quando encontrasse todos ganhava uma lembrança.

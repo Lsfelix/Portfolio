@@ -1,0 +1,25 @@
+Contexto Masmorra de Alcadar
+
+-Jogo de aventura realizado como trabalho final para a cadeira de Programação Orientada a Objetos.
+-O professor disponibilizou apenas das 4 "Classes Basica".
+-Toda arte feita por mim.
+-O jogo possui um sistema de save. Ao digitar "SAIR" você salva seu progresso, e pode retomar depois com
+o botão "Carregar Jogo"
+
+Instruções:
+O objetivo do jogo é chegar até a sala atrás do portão dourado.
+Há múltiplas maneiras de se vencer, dependendo de qual classe você escolher.
+
+O Guerreiro é forte, pode pegar objetos pesados e usar seus "PUNHOS" para fazer força.
+O Mago é inteligente, consegue ler e tem uma "VARINHA" que pode usar duas vezes para solucionar desafios ou realizar magias.
+O Ladino é um meio termo entre os dois personagens, ele também tem uma "VARINHA" mas pode usa-lá apenas uma vez.
+
+Digite "AJUDA" dentro do jogo para obter uma explicação dos comandos.
+
+
+---Avaliação
+
+Mudanças que eu realizaria em uma futura revisão do jogo.
+
+-Implementaria uma maneira de listar o nome dos objetos no seu inventário.
+-Melhoraria a arte para facilitar a compreensão do jogador.
