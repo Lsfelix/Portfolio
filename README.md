@@ -1,38 +1,42 @@
 # Portfolio
-Um acervo de jogos feitos por diversão ou motivos acadêmicos.
+Games I've made for multiple purposes.
+
+-Quiz Mario Gauchada
+
+  A quiz game made with the goal of winning a competition at the biggest youth entrepreneurship forum in Brazil.
+  
+  Every state/country had to prepare a stand with informations about your homeland, the game was a quiz with questions about Rio Grande do Sul. It blew up in the forum, granting us first place in the competition.  
+  
+  #Unity
+
 
 -Escape Game
 
-  Dois programas feitos para acompanhar Escape Games (Jogos onde se deve escapar de uma sala resolvendo desafios). 
+  Two auxiliary games that were used inside two Escape Games I helped create. These Escape Games were played by many student in my high school and were immensely enjoyed.
   
-  #Game Maker e Unity
+  #GameMaker #Unity
 
 -Masmorra de Alcadar
 
-  Jogo Text Adventure realizado como trabalho final da cadeira de Programação orientada a objetos. 
+  Dungeon crawler text adventure game made as a final project for Object-Oriented Programing in university.
   
-  #Java usando Java FX
+  #Java #JavaFX
  
--Modus_Ponens
+-Modus Ponens
 
-  Jogo feito para uma oficina de scratch. 
+  Game made in a Scratch workshop with 6 meeting. In the end, my game was nominated the best in the class. 
   
   #Scratch
   
--Quiz Mario Gauchada
-
-  Jogo feito para um fórum de empreendorismo jovem. 
-  
-  #Unity
  
 -Schemedete
 
-  Jogo feito de presente para uma amiga.  
+  Game made as a birthday present for a friend.  
   
   #Game Maker
   
 -Tempo de Reação
   
-  Jogo feito para a feira de ciências do colégio  
+  Game made for the science fair in high school. The goal was to show how reaction time is important in traffic and attention should always be maximized.  
   
   #Game Maker
