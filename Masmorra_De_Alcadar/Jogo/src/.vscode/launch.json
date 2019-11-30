@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Janela",
+            "request": "launch",
+            "mainClass": "Janela",
+            "projectName": "src_51e42ce4"
+        }
+    ]
+}
