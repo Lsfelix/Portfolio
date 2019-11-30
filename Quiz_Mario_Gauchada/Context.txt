@@ -1,0 +1,9 @@
+Context Quiz Gauchada
+
+-This game was made with help from a youtube tutorial.
+-Most assets are not mine.
+-Unity 5.6.3p2.
+
+-This game was made for the 10th edition of Findinexa Brasil, Brazil's biggest youth targeted enterperneurship forum.
+-Another version was made for the 9th edition, and is playable by pressing the star-drawn mario in the top left corner.
+-The game was a huge sucess at the forum, granting Rio Grande do Sul (my state) the win in the State Fair.

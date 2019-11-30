@@ -1,7 +1,0 @@
-Contexto Schemedete
-
--Um jogo que foi feito de presente de aniversário para uma amiga.
--No programa Miniempresa, realizado em múltiplos colégios no ensino médio, deve-se criar uma empresa e idealizar
-e vender um produto.
--No jogo, você deve evitar as "Hangers"(Produto do colégio de minha amiga) e deve chegar até a "Joker"
-(Produto do meu colégio).

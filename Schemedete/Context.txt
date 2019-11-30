@@ -1,0 +1,9 @@
+Context Schemedete
+
+-Game made as a birthday present in 2016.
+
+- In the game, you must dodge the "Hangers"(The product of my friend entrepreneurial venture which was rival to mine)
+and you must reach the "Joker" (my prodcut).
+- Made just for fun and messing with her.
+
+To play run the .exe in "schemedete_the_adventure".
